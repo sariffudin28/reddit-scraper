@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Database hasil scrape
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
